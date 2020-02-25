@@ -1007,7 +1007,7 @@ hr:after {
   }
   body header nav ul li {
     display: block;
-    line-height: 1.6em;
+    line-height: 2.6em;
     padding: 0;
   }
   body header nav ul li:after {
